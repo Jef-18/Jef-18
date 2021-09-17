@@ -1,8 +1,8 @@
 ### Hi, my name is Jeferson! 👋
 
-- 👨‍💻 I’m currently working on Support Analyst Jr.
+- 👨‍💻 I’m currently working like Support Analyst Jr.
 - 🌱 I’m currently learning IA (Intelligence Artificial)
-- 🔭 I’m looking to collaborate on Front-end Developer
+- 🔭 I’m looking to collaborate like Front-end Developer
 
 <br>
 
