@@ -38,7 +38,7 @@
 <div style="display: inline-block">I love learn new languages and know new cultures.<br><br>
 <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
 <img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
-<img src="https://img.icons8.com/color/48/000000/spain2-circular.png" height="30" width="30" title="Español"/>
+<!--<img src="https://img.icons8.com/color/48/000000/spain2-circular.png" height="30" width="30" title="Español"/>-->
 </div>
   
 ##
