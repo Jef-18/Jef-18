@@ -1,7 +1,7 @@
 ### Hi, my name is Jeferson! 👋
 
 - 👨‍💻 I’m working like Support Analyst Pl.
-- 🌱 I’m currently learning IA (Intelligence Artificial)
+- 🌱 Postgraduate degree in Artificial Intelligence and Machine Learning.
 - 🔭 I’m looking to collaborate like Front-end Developer!
 
 ##
